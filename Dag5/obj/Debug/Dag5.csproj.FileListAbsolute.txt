@@ -1,0 +1,19 @@
+C:\Users\pc\Desktop\Skole\3.Semester\Netværk uge 1\Dag 5\Dag5\Dag5\bin\Debug\Dag5.exe.config
+C:\Users\pc\Desktop\Skole\3.Semester\Netværk uge 1\Dag 5\Dag5\Dag5\bin\Debug\Dag5.exe
+C:\Users\pc\Desktop\Skole\3.Semester\Netværk uge 1\Dag 5\Dag5\Dag5\bin\Debug\Dag5.pdb
+C:\Users\pc\Desktop\Skole\3.Semester\Netværk uge 1\Dag 5\Dag5\Dag5\obj\Debug\Dag5.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Skole\3.Semester\Netværk uge 1\Dag 5\Dag5\Dag5\obj\Debug\Dag5.exe
+C:\Users\pc\Desktop\Skole\3.Semester\Netværk uge 1\Dag 5\Dag5\Dag5\obj\Debug\Dag5.pdb
+C:\Users\pc\Desktop\Individuel\2 Netværk\Dag 5\Dag5\Dag5\bin\Debug\Dag5.exe.config
+C:\Users\pc\Desktop\Individuel\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.exe
+C:\Users\pc\Desktop\Individuel\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.pdb
+C:\Users\pc\Desktop\Individuel\2 Netværk\Dag 5\Dag5\Dag5\bin\Debug\Dag5.exe
+C:\Users\pc\Desktop\Individuel\2 Netværk\Dag 5\Dag5\Dag5\bin\Debug\Dag5.pdb
+C:\Users\pc\Desktop\Individuel\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.csprojResolveAssemblyReference.cache
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\bin\Debug\Dag5.exe.config
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\bin\Debug\Dag5.exe
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\bin\Debug\Dag5.pdb
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.csprojAssemblyReference.cache
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.csproj.CoreCompileInputs.cache
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.exe
+C:\Kasper\Færdige projekter\Emneopdelt opgaver til eksamensforberedelse\2 Netværk\Dag 5\Dag5\Dag5\obj\Debug\Dag5.pdb
